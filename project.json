@@ -1,0 +1,27 @@
+{
+  "overview": "Smart Data Extender — a Bluetooth-connected data extraction tool that simulates and displays all device data types (video, audio, images, call logs, message logs, notifications, GPS) with bit-by-bit hex/decimal/binary analysis and readable previews side-by-side.",
+  "features": [
+    "Bluetooth device scanning and GATT service tree",
+    "GPS tracking with coordinate bit analysis and history",
+    "Video panel with simulated MP4 metadata and hex dump",
+    "Audio panel with simulated MP3 metadata and waveform preview",
+    "Image panel with simulated JPEG/PNG metadata and thumbnail",
+    "Call logs panel with caller, duration, direction, and byte dump",
+    "Message logs panel with sender, text, timestamp, and byte dump",
+    "Notifications panel with app, title, body, and byte dump",
+    "Split-view for every panel: raw hex/decimal/binary + readable preview",
+    "Export All button downloads all session data as JSON"
+  ],
+  "category": "productivity",
+  "tags": [
+    "bluetooth",
+    "data-extraction",
+    "hex-dump",
+    "gps",
+    "smartwatch",
+    "smartphone",
+    "debugging",
+    "binary-analysis"
+  ],
+  "last_updated": "2026-05-07T17:37:18.466Z"
+}
